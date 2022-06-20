@@ -1,7 +1,8 @@
-<div style="display: flex;" align="">
+# Hello World, what's today's code?       👨🏾‍💻
+<div  align="center">
   <a href="https://github.com/fagnersro">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=fagnersro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="189rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnersro&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180rem"  src="https://github-readme-stats.vercel.app/api?username=fagnersro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="100"  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnersro&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <div style="display: inline_block"><br>
