@@ -59,7 +59,7 @@
       <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
     </p>
     
-  <p>
+  <p >
     <img height="100" width="220" alt="mestreestelar" src="https://github.com/fagnersro/in-image/blob/main/anime-anime-glasses.gif" >
   </p>
 </samp>
