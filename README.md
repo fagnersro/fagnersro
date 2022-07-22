@@ -3,12 +3,13 @@
   ##
 
 
-  • Me especializando na área de **desenvolvimento web** e hoje trabalho desenvolvendo websites como freelancer.
+  • Me especializando na área de **desenvolvimento web**.
 
 
-  • 27 anos, estudante de **Programção Front End**, gosto de ler conteúdo sobre Inkscape, PS, FIGMA   🐱‍👤
+  • 27 anos, estudante de **Programção Front End**, gosto de ler conteúdo sobre Inkscape, PS, FIGMA, com a missão de tornar o mundo cada vez mais livre e conectado
+  e, consequentimente, permitir da voz a quem não tinha. 🐱‍👤
 
-
+  
 
   ##
   
