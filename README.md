@@ -3,10 +3,10 @@
   ##
 
 
-  • Trabalho como **Técnico de Refrigeração** a 8 anos  ❄💙  e o sonho agora é contribuir com a profissão atuando do lado da **Tecnologia** que está sendo gratificante **aprender** .
+  • Me especializando na área de **desenvolvimento web** e hoje trabalho desenvolvendo websites como freelancer.
 
 
-  • 27 anos, estudante de programção, mastigando código ao ver conteúdo de **tecnologia na internet** 🐱‍👤
+  • 27 anos, estudante de **Programção Front End**, gosto de ler conteúdo sobre Inkscape, PS, FIGMA   🐱‍👤
 
 
 
@@ -42,7 +42,7 @@
   ```jsx
   const importantLinks = {
     👨🏾‍💻❄ Company: 'https://www.instagram.com/coldsyst/',
-    📚 School: 'https://www.rocketseat.com.br/',
+    📚 School: 'https://www.xpeducacao.com.br/',
     📝 Inspiration: 'https://github.com/davidflanagan',
   }
 ```
@@ -50,17 +50,13 @@
   <summary><b>Ver mais</b></summary>
 
   ### 🪐 **Linguagens**
-  <samp style="display: flex">
-    <p display="flex" flex-direction="row" align="start">
+  <samp>
+    <p display="flex" flex-direction="row" align="center">
       <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-    </p>
-    
-  <p >
-    <img height="100" width="220" alt="mestreestelar" src="https://github.com/fagnersro/in-image/blob/main/anime-anime-glasses.gif" >
-  </p>
+    </p>   
 </samp>
 </details>
