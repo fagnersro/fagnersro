@@ -43,7 +43,7 @@
   ```jsx
   const importantLinks = {
     👨🏾‍💻❄ Company: 'https://www.instagram.com/coldsyst/',
-    📚 School: FrontEnd,
+    📚 School: programmig,
     📝 Inspiration: 'https://github.com/davidflanagan',
   }
 ```
