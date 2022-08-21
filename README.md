@@ -2,14 +2,13 @@
   
   ##
 
+• **27 anos,** Técnico de Refrigeração, estudo o desenvolvimento de software, ponho em execução (plano ou projeto) por conhecer o modelo de negócio
+da refrigeração de ambientes. 💱
 
-  • Me especializando na área de **desenvolvimento web**.
-
-
-  • 27 anos, estudante de **Programção Front End**, gosto de ler conteúdo sobre Inkscape, PS, FIGMA, com a missão de tornar o mundo cada vez mais livre e conectado
-  e, consequentimente, permitir da voz a quem não tinha. 🐱‍👤
-
-  
+   Compartilho e salvo neste repósitorio tudo que venho vivenciando e aprendendo com desenvolvimento de tecnologia. <br>
+   
+   Modelos de negócios | Desenvolvimento pessoal | Renda online, são assuntos que me tiram da bolhadev.
+      
 
   ##
   
@@ -43,7 +42,7 @@
   ```jsx
   const importantLinks = {
     👨🏾‍💻❄ Company: 'https://www.instagram.com/coldsyst/',
-    📚 School: programmig,
+    📚 School: 'life'
     📝 Inspiration: 'https://github.com/davidflanagan',
   }
 ```
@@ -58,7 +57,5 @@
       <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-
-    </p>   
 </samp>
 </details>
