@@ -2,12 +2,6 @@
   
   ##
 
-• **27 anos,** Técnico de Refrigeração, estudo o desenvolvimento de software, ponho em execução (plano ou projeto) por conhecer o modelo de negócio
-da refrigeração de ambientes. 💱
-
-   Compartilho e salvo neste repósitorio tudo que venho vivenciando e aprendendo com desenvolvimento de tecnologia. <br>
-   
-   Modelos de negócios | Desenvolvimento pessoal | Renda online, são assuntos que me tiram da bolhadev. 
       
 
   ##
