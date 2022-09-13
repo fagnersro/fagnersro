@@ -42,7 +42,7 @@
 <details>
   <summary><b>Ver mais</b></summary>
 
-  ### 🪐 **Linguagens**
+  ### 🪐 **Languages**
   <samp>
     <p display="flex" flex-direction="row" align="center">
       <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
